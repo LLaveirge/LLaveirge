@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @llaveirge
+Full Stack Web Developer - JavaScript | HTML5 | CSS3
+
+<!-- - 👋 Hi, I’m @llaveirge
 - 👀 I’m interested in the arts, spending time outdoors, and learning software development! 
 - 🌱 I’m currently learning JavaScript, HTML, and CSS.
-- 💞️ I’m looking to collaborate on something once my skills are a bit more advanced. 
+- 💞️ I’m looking to collaborate on something once my skills are a bit more advanced.  -->
 
 
 <!---
